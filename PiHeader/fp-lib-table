@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PiHeader)(type KiCad)(uri ${KIPRJMOD}/PiHeader.pretty)(options "")(descr ""))
+)
